@@ -1,0 +1,25 @@
+body {
+    color: rgb(199, 199, 247);
+}
+
+
+h1, h2{
+    color:blue
+}
+
+input {
+   
+   border-color: blue;
+}
+
+table {
+
+    color: blue;
+}
+
+#aceptar-cancelar{
+    border-color: blue;
+    color: rgb(235, 235, 244);
+
+
+}
